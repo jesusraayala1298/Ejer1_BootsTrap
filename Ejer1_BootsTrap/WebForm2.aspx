@@ -13,7 +13,7 @@
      </head>
     <body>
         <div class="container">
-        <!--Diferentes tamaños de titulos-->
+        <!--Diferentes tamaños de titulos -->
         <h1>h1 Bootstrap heading (36px)</h1>
         <h2>h2 Bootstrap heading (30px)</h2>
         <h3>h3 Bootstrap heading (24px)</h3>
